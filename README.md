@@ -10,3 +10,8 @@ Belajar Git (progres 23%, maybe)
 Belajar Git (progres 24%, wkwk)
 * Menambahkan informasi lagi di berkas README.
 * Dan seterusnyaaa
+
+**21 Agustus 2022 (sekali lagi, masih yaa)**  
+Belahar Git (progres 25%, heheh)
+* Tambah informasi di berkas README. lagi dan lagi
+* Itu ajaa
